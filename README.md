@@ -1,9 +1,8 @@
-````markdown
-# 🔍 Python Port Scanner
+# Python Port Scanner
 
 ## Overview
 
-The **Python Port Scanner** is a beginner-friendly cybersecurity project that automates TCP port scanning for one or more IP addresses. It reads a list of target IPs, checks selected ports to determine whether they are open or closed, and displays the results in a clear, organized format.
+The **Python Port Scanner** is a cybersecurity project that automates TCP port scanning for one or more IP addresses. It reads a list of target IPs, checks selected ports to determine whether they are open or closed, and displays the results in a clear, organized format.
 
 This project was built to strengthen Python programming skills while introducing basic networking and cybersecurity concepts such as socket programming, port scanning, file handling, and automation.
 
@@ -125,4 +124,3 @@ Scan Complete
 ## License
 
 This project is for educational purposes only. Use it only on systems you own or have explicit authorization to test.
-````
